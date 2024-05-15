@@ -1,4 +1,4 @@
-# steamerbot twitchcommands
+# streamerbot twitchcommands
 Write some command as example for streamer bot
 
 !кусь.cs
