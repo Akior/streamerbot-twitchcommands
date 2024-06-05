@@ -15,10 +15,10 @@ Some example of working command !random, !pat, !bonk, !vfx with streamer bot and
 
 youtube.cs
 
-Start youtube video with commands !music URL ( !music https://www.youtube.com/watch?v=pwbdg2wI9mM )
-Have filter on watch count, parental and lenght
-Work with OBS with browser source
+Start youtube video with commands !music URL ( !music https://www.youtube.com/watch?v=pwbdg2wI9mM )<br />
+Have filter on watch count, parental and lenght<br />
+Work with OBS with browser source<br />
 
-Запуск роликов youtube по запросам пользователей через команду !music URL ( !music https://www.youtube.com/watch?v=pwbdg2wI9mM )
-Настроены фильтры на кол-во просмотров, запрет видео если есть возрастное ограничение и запрет на длину ролику ( все можно настроить )
+Запуск роликов youtube по запросам пользователей через команду !music URL ( !music https://www.youtube.com/watch?v=pwbdg2wI9mM )<br />
+Настроены фильтры на кол-во просмотров, запрет видео если есть возрастное ограничение и запрет на длину ролику ( все можно настроить )<br />
 Работает через OBS с источником типа браузер ( в теории меньше нагрузка через через оверлее DA и прочих )
